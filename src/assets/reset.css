@@ -1,0 +1,40 @@
+  body {
+    background-color: #e5d9c3;
+    color: #7f5c3b;
+    font-family: '微软雅黑';
+    font-size: 16px;
+  }
+*, ::before, ::after {
+    margin:0;
+    padding:0;
+    
+    box-sizing: border-box;
+}
+/* Reset styles */
+
+html, body, div, span, h1, h2, h3, h4, h5, h6,
+p, a, em, img, ol, ul, li,form, label{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-weight: normal;
+  vertical-align: baseline;
+}
+/* Links reset */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Lists reset */
+ul, ol {
+  list-style: none;
+}
+
+/* Fix for images scaling issue in IE */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}

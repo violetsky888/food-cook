@@ -1,0 +1,19 @@
+{
+    "navbar": {
+      "websiteName": "食品烹饪",
+      "homeLinkText": "首页",
+      "recipesLinkText": "食谱",
+      "aboutLinkText": "关于",
+      "contactLinkText": "联系"
+    },
+    "main": {
+      "title": "发现美食的乐趣",
+      "description": "探索世界美食文化，品尝最新味道。"
+    },
+    "footer": {
+      "address": "北京市朝阳区XXX路XXX号",
+      "phone": "+86-10-12345678",
+      "email": "info@example.com"
+    }
+  }
+  
